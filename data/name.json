@@ -1,0 +1,15 @@
+{
+  "basicInfo":{
+    "firstName": "Mark ",
+    "lastName": "Baranyi-Tompos",
+    "likesChineseFood": false,
+    "numberOfDisplays": 2
+  },
+  "profession":{
+    "CurrentJob": "SW Architect",
+    "HighestEducation": "University Msc",
+    "Profession": "Software Engineer, Mechatonic Engineer, Automotive field",
+    "Programming Languages": "C/C++, Javascript, Python, Assembly, Pascal"
+  }
+}
+
