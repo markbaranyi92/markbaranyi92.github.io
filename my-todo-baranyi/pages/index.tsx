@@ -4,8 +4,9 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Link from '../src/Link';
-import ProTip from '../src/ProTip';
 import Copyright from '../src/Copyright';
+import { Button } from '@mui/material';
+import CheckboxList from '../src/TodoTable';
 
 const Home: NextPage = () => {
   return (
@@ -22,10 +23,18 @@ const Home: NextPage = () => {
         <Typography variant="h4" component="h1" gutterBottom>
           ToDo app example with MUI
         </Typography>
-        <Link href="/about" color="secondary">
-          Go to the about page
-        </Link>
+        <CheckboxList />
       </Box>
+      <Link href="/about" color="secondary"
+        sx={{
+          my: 4,
+          display: 'flex',
+          flexDirection: 'column',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}>
+          Go to the about page
+      </Link>
       <Copyright />
     </Container>
   );
