@@ -1,14 +1,14 @@
-# Next.js with TypeScript example
+# Next.js with TypeScript Todo list example
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+Download the example:
 
 <!-- #default-branch-switch -->
 
 ```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs-with-typescript
-cd nextjs-with-typescript
+git clone https://github.com/markbaranyi92/markbaranyi92.github.io.git
+git checkout next_js
 ```
 
 Install it and run:
@@ -18,13 +18,8 @@ npm install
 npm run dev
 ```
 
-or:
 
 <!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/nextjs-with-typescript)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs-with-typescript)
 
 ## The idea behind the example
 
