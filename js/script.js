@@ -29,6 +29,8 @@ document.addEventListener("DOMContentLoaded",
               message += "Highest education: " + res.profession.HighestEducation + "<br>";
               message += "Profession: " + res.profession.Profession + "<br>";
               message += "Programming languages: " + res.profession["Programming Languages"] + "<br>";
+              message += "Technologies: " + res.profession["Technologies"] + "<br>";
+              message += "Skills: " + res.profession["Skills"] + "<br>";
 
               document.querySelector("#content2")
                 .innerHTML = "<p>" + message + "</p>";
