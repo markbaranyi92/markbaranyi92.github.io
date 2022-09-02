@@ -1,17 +1,17 @@
 {
   "basicInfo":{
-    "firstName": "Mark ",
-    "lastName": "Baranyi-Tompos",
-    "likesChineseFood": false,
-    "numberOfDisplays": 2
+     "firstName":"Mark ",
+     "lastName":"Baranyi-Tompos",
+     "likesChineseFood":false,
+     "numberOfDisplays":2
   },
   "profession":{
-    "CurrentJob": "Senior Embedded Developer",
-    "HighestEducation": "University Msc",
-    "Profession": "Software Engineer, Mechatonic Engineer, Software Architect, Automotive field",
-    "Programming Languages": "C/C++, Javascript, Python, Assembly, Pascal",
-    "Technologies": "Microcontrollers(TI,Atmel,Infineon,ARM), Autosar(BSW), Bootloader, MicroController Abstaction Layer(MCAL), webdevelopment basics",
-    "Skills": "Hardworking, Accurate, Teamwork, Interested in math, vehicle dynamics and control, motivated and learns new things easily"
+     "CurrentJob":"Senior Embedded Developer",
+     "HighestEducation":"University Msc",
+     "Profession":"Software Engineer, Mechatonic Engineer, Software Architect, Automotive field",
+     "Programming Languages":"C/C++, Javascript, Python, Assembly, Pascal",
+     "Technologies":"Microcontrollers(TI,Atmel,Infineon,ARM), Autosar(BSW), Bootloader, MicroController Abstaction Layer(MCAL), webdevelopment basics",
+     "Skills":"Hardworking, Accurate, Teamwork, Interested in math, vehicle dynamics and control, motivated and learns new things easily"
   }
 }
 
